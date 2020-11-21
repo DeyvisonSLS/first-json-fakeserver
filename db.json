@@ -1,5 +1,7 @@
-{
-    "userID": 1,
-    "userName": "Deyvison S. L. Santos",
-    "userAge": 22
-}
+[
+    {
+        "userID": 1,
+        "userName": "Deyvison S. L. Santos",
+        "userAge": 22
+    }
+]
