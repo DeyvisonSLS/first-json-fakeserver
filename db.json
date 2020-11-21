@@ -1,34 +1,28 @@
-[
-    {
-
-        "personalProfiles":
-        [
-            {
-                "userID": 1,
-                "userName": "Maryana Santos",
-                "userAge": 18
-            },
-            {
-                "userID": 2,
-                "userName": "Samyra Santos",
-                "userAge": 13
-            }
-        ]
-    },
-    {
-
-        "profissionalProfiles":
-        [
-            {
-                "userID": 1,
-                "userName": "Deyvison Santos",
-                "userAge": 22
-            },
-            {
-                "userID": 2,
-                "userName": "Sara de Freitas",
-                "userAge": 21
-            }
-        ]
-    }
-]
+{
+    "personalProfiles":
+    [
+        {
+            "userID": 1,
+            "userName": "Maryana Santos",
+            "userAge": 18
+        },
+        {
+            "userID": 2,
+            "userName": "Samyra Santos",
+            "userAge": 13
+        }
+    ],
+    "profissionalProfiles":
+    [
+        {
+            "userID": 1,
+            "userName": "Deyvison Santos",
+            "userAge": 22
+        },
+        {
+            "userID": 2,
+            "userName": "Sara de Freitas",
+            "userAge": 21
+        }
+    ]
+}
