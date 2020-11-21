@@ -1,5 +1,20 @@
 {
-    "userID": 1,
-    "userName": "Deyvison S. L. Santos",
-    "userAge": 22
+    "profile":
+    [
+        {
+            "userID": 1,
+            "userName": "Deyvison S. L. Santos",
+            "userAge": 22
+        },
+        {
+            "userID": 2,
+            "userName": "Deyvison S. L. Santos",
+            "userAge": 25
+        }
+    ],
+    "anotherProfile": {
+        "userID": 1,
+        "userName": "Deyvison S. L. Santos",
+        "userAge": 22
+    }
 }
