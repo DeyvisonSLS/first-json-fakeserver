@@ -1,5 +1,9 @@
 {
-    "userID": 1,
-    "userName": "Deyvison S. L. Santos",
-    "userAge": 22
+    "profiles": [
+        {
+            "userID": 1,
+            "userName": "Deyvison S. L. Santos",
+            "userAge": 22
+        }
+    ]
 }
