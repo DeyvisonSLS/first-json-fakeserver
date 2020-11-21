@@ -21,8 +21,13 @@
         },
         {
             "userID": 2,
-            "userName": "Sara Naomí Rodrigues de Freitas dos Santos",
+            "userName": "Sara Santos",
             "userAge": 21
+        },
+        {
+            "userID": 3,
+            "userName": "Lara Sophya",
+            "userAge": 0.001
         }
     ]
 }
